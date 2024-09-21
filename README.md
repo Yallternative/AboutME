@@ -4,4 +4,13 @@
 
 ---
 
+<div align="center">
 ### ☠️About Me
+
+- 21
+- It/It's
+
+
+
+
+</div>
