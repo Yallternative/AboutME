@@ -17,8 +17,11 @@
 ### ☠️IRLS
 </div>
 
-- ${{\color{Goldenrod}\Huge{\textsf{  Simon\ Riley\ \}}}}\$
-- 
+- ${{\color{Red}\Huge{\textsf{  Simon\ Riley\ \}}}}\$
+- ${{\color{Red}\Huge{\textsf{  Miguel\ O'Hara\ \}}}}\$
+- ${{\color{Red}\Huge{\textsf{  Rick\ Sanchez\ \}}}}\$
 
 
-
+  <div align="center">
+### ☠️IRLS
+</div>
