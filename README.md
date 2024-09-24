@@ -17,9 +17,9 @@
 ### ☠️IRLS
 
 
-- ${{\color{Red}\Normal{\textsf{  Simon\ Riley\ \}}}}\$
-- ${{\color{Red}\Normal{\textsf{  Miguel\ O'Hara\ \}}}}\$
-- ${{\color{Red}\Normal{\textsf{  Rick\ Sanchez\ \}}}}\$
+- ${{\color{Red}{\textsf{  Simon\ Riley\ \}}}}\$
+- ${{\color{Red}{\textsf{  Miguel\ O'Hara\ \}}}}\$
+- ${{\color{Red}{\textsf{  Rick\ Sanchez\ \}}}}\$
 
 
 ---
