@@ -17,7 +17,7 @@
 ### ☠️IRLS
 </div>
 
-- ```-Simon "Ghost" Riley```
+- ${{\color{Goldenrod}\Huge{\textsf{  Simon\ Riley\ \}}}}\$
 - 
 
 
