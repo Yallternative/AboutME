@@ -6,11 +6,19 @@
 
 <div align="center">
 ### ☠️About Me
+</div>
 
 - 21
 - It/It's
+- Gay
 
 
-
-
+  <div align="center">
+### ☠️IRLS
 </div>
+
+- Simon "Ghost" Riley
+- 
+
+
+
