@@ -4,24 +4,33 @@
 
 ---
 
-<div align="center">
+
 ### ☠️About Me
-</div>
+
 
 - 21
 - It/It's
 - Gay
 
 
-  <div align="center">
+ 
 ### ☠️IRLS
-</div>
+
 
 - ${{\color{Red}\Huge{\textsf{  Simon\ Riley\ \}}}}\$
 - ${{\color{Red}\Huge{\textsf{  Miguel\ O'Hara\ \}}}}\$
 - ${{\color{Red}\Huge{\textsf{  Rick\ Sanchez\ \}}}}\$
 
 
+---
+
+
   <div align="center">
-### ☠️IRLS
+### ☠️Ponytown Info
 </div>
+
+- I sit with my boyfriend
+- Do not copy ponies/Inspo without asking
+- I hide liberally
+- I do not like being covered or having strangers close to me
+- 
