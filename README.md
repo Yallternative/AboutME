@@ -17,9 +17,9 @@
 ### ☠️IRLS
 
 
-- ${{\color{Red}\Huge{\textsf{  Simon\ Riley\ \}}}}\$
-- ${{\color{Red}\Huge{\textsf{  Miguel\ O'Hara\ \}}}}\$
-- ${{\color{Red}\Huge{\textsf{  Rick\ Sanchez\ \}}}}\$
+- ${{\color{Red}\Normal{\textsf{  Simon\ Riley\ \}}}}\$
+- ${{\color{Red}\Normal{\textsf{  Miguel\ O'Hara\ \}}}}\$
+- ${{\color{Red}\Normal{\textsf{  Rick\ Sanchez\ \}}}}\$
 
 
 ---
@@ -29,8 +29,28 @@
 ### ☠️Ponytown Info
 
 
-- I sit with my boyfriend
-- Do not copy ponies/Inspo without asking
+- I sit with my boyfriend.
+- Do not copy ponies/Inspo without asking.
+- I do not like being covered or having strangers close to me.
+- Do not INT if you are a minor on 18+.
+- Do not friend me if we do not know each other.
+- I will more than likely not talk to you. Whisper to get my attention.
+- I AFK more than anything, I'm here to sit and watch.
+- I happily report anyone underage on 18+ server. 
+
 - I hide liberally
-- I do not like being covered or having strangers close to me
+- Funny Valentine, Stroheim, Phillip Graves, Vladimir Makarov, and more. I will hide on sight.
+- Death jokes about John MacTavish, Noriaki Kakyoin, and others will also get you hidden. This includes using Halo's over their heads.
+- INT with me as a spouse char will get you hidden.
+- Sitting near me as a duplicate of me will get you hidden. Double of irls, same skin, same skin as my partner, etc.
+
+
+### ☠️Info
+
+
+- DNI doubles of my irls.
+- DNI doubles of my partner.
+- DNI minor into 18+ media.
+- DNI if under 18.
+- I am openly an asshole, don't come to me for comfort.
 - 
