@@ -22,6 +22,14 @@
 - ${{\color{Red}{\textsf{  Rick\ Sanchez\ \}}}}\$
 
 
+### ☠️Comf
+
+
+- ${{\color{Blue}{\textsf{  John\ MacTavish\ \}}}}\$
+
+
+
+
 ---
 
 
@@ -40,7 +48,7 @@
 
 - I hide liberally
 - Funny Valentine, Stroheim, Phillip Graves, Vladimir Makarov, and more. I will hide on sight.
-- Death jokes about John MacTavish, Noriaki Kakyoin, and others will also get you hidden. This includes using Halo's over their heads.
+- Death jokes about ${{\color{Blue}{\textsf{  John\ MacTavish\ \}}}}\$, ${{\color{Red}{\textsf{  Noriaki\ Kakyoin\ \}}}}\$, and others will also get you hidden. This includes using Halo's over their heads.
 - INT with me as a spouse char will get you hidden.
 - Sitting near me as a duplicate of me will get you hidden. Double of irls, same skin, same skin as my partner, etc.
 
@@ -52,5 +60,4 @@
 - DNI doubles of my partner.
 - DNI minor into 18+ media.
 - DNI if under 18.
-- I am openly an asshole, don't come to me for comfort.
-- 
+- I am unfiltered, do not come to me for comfort.
